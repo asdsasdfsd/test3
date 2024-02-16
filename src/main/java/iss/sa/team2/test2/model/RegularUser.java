@@ -9,9 +9,9 @@ import java.util.Set;
 
 import org.springframework.format.annotation.DateTimeFormat;
 
-import iss.sa.team2.ad.enums.Gender;
-import iss.sa.team2.ad.enums.UserPosition;
-import iss.sa.team2.ad.enums.UserStatus;
+import iss.sa.team2.test2.enums.Gender;
+import iss.sa.team2.test2.enums.UserPosition;
+import iss.sa.team2.test2.enums.UserStatus;
 import jakarta.persistence.CascadeType;
 import jakarta.persistence.Entity;
 import jakarta.persistence.FetchType;

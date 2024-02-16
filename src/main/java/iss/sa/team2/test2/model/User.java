@@ -1,6 +1,6 @@
 package iss.sa.team2.test2.model;
 
-import iss.sa.team2.ad.enums.UserPosition;
+import iss.sa.team2.test2.enums.UserPosition;
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;
 import jakarta.persistence.Inheritance;

@@ -3,7 +3,7 @@ package iss.sa.team2.test2.model;
 import java.time.LocalDateTime;
 import java.util.Objects;
 
-import iss.sa.team2.ad.enums.MyType;
+import iss.sa.team2.test2.enums.MyType;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
